@@ -1,6 +1,6 @@
 # Scholar Newsletter Apps Script
 
-This project is a Google Apps Script that automatically collects your latest research alert emails from **Google Scholar Alerts**, extracts paper information and abstracts, summarizes them using Gemini AI, and sends you a weekly email digest—complete with concise bullet-point summaries for each paper. It is designed for researchers who want to efficiently stay up to date with new literature.
+This project is a Google Apps Script that automatically collects your latest research alert emails from **Google Scholar Alerts**, extracts paper information and abstracts, summarizes them using Gemini AI, and sends you a weekly email with concise bullet-point summaries for each paper. 
 
 ---
 
